@@ -1,8 +1,6 @@
 # IGI_Remake_UE3
 Project IGI Remake in Unreal Engine 3
 
-Video
-https://www.youtube.com/watch?v=Txy94ktISvo
 
 Advanced Physics Animations, Destruction: FEMFX
 Helicopter,
